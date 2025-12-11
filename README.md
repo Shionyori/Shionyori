@@ -40,6 +40,6 @@ Recently, I’ve been diving into C++ and Rust, along with different tools relat
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shionyori&show_icons=true&theme=tokyonight" style="margin:5px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shionyori&layout=compact&theme=tokyonight" style="margin:5px"/>
+  <img src="https://github-readme-stats-topaz-theta-73.vercel.app/api?username=Shionyori&show_icons=true&theme=tokyonight" style="margin:5px"/>
+  <img src="https://github-readme-stats-topaz-theta-73.vercel.app/api/top-langs?username=Shionyori&layout=compact&theme=tokyonight" style="margin:5px"/>
 </p>
