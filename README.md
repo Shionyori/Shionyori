@@ -34,12 +34,13 @@ Recently, I’ve been diving into C++ and Rust, along with different tools relat
   <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
   <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" style="margin:5px"/>
   <img src="https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake&logoColor=auto" style="margin:5px"/>
-
 </p>
 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-topaz-theta-73.vercel.app/api?username=Shionyori&show_icons=true&theme=tokyonight" style="margin:5px"/>
-  <img src="https://github-readme-stats-topaz-theta-73.vercel.app/api/top-langs?username=Shionyori&layout=compact&theme=tokyonight" style="margin:5px"/>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="160px" src="https://github-readme-stats-topaz-theta-73.vercel.app/api?username=Shionyori&show_icons=true&theme=tokyonight" style="margin:5px"/>
+    <img height="160px" src="https://github-readme-stats-topaz-theta-73.vercel.app/api/top-langs?username=Shionyori&layout=compact&theme=tokyonight" style="margin:5px"/>
+  </div>
 </p>
