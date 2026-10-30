@@ -39,8 +39,6 @@ Particularly keen on C++, with some experience in both front-end and back-end de
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="margin:3px"/>
 </div>
 
-
-
 <br>
 <div align="left">
   <img height="160" src="https://github-readme-stats-topaz-theta-73.vercel.app/api?username=Shionyori&show_icons=true&theme=shadow_blue" style="margin:5px"/>
